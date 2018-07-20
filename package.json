@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "bcrypt": "https://github.com/kelektiv/node.bcrypt.js",
+    "bcrypt-nodejs": "^0.0.3",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "eslint": "^5.1.0",
+    "express": "^4.16.3",
+    "nodemon": "^1.18.3"
+  }
+}
